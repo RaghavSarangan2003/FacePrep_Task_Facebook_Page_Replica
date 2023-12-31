@@ -6,7 +6,7 @@ Facebook page clone for FacePrep placement training
 - CSS3
 
 
-###Prerequisites
+### Prerequisites
 - Any text editor
 - Web browser
 
