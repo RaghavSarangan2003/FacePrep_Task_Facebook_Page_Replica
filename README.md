@@ -4,8 +4,7 @@ Facebook page clone for FacePrep placement training
 ## Technologies Used
 - HTML5
 - CSS3
-  
-##Getting started
+
 
 ###Prerequisites
 - Any text editor
